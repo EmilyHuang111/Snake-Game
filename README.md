@@ -1,5 +1,5 @@
-![Demo Video](demo.gif)
 # Snake Game
+![Demo Video](demo.gif)
 
 This is a classic Snake game implemented using Pygame, where the player controls a snake to eat food, grow in length, and avoid colliding with the edges or itself.
 
